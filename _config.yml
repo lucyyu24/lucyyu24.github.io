@@ -1,5 +1,5 @@
 # Site settings
-title: Lucy Yu 
+title: LUCY YU
 email: lucyyu1996@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lucyyu.me" # the base hostname & protocol for your site
 github_username:  lucyyu24
 linkedin_username:  lucyjyu
+soundcloud_username: lucy_yu
 
 # Build settings
 markdown: kramdown
