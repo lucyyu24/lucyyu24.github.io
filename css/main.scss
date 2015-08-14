@@ -67,8 +67,14 @@ $on-laptop:        800px;
 
 .socicon {
 	font-family: 'socicon' !important; 
-    color: lighten($brand-color, 15%);
+    color: lighten($grey-color, 15%);
     &:hover {
-        color: darken($brand-color, 5%);
+        color: darken($grey-color, 5%);
     }
+}
+
+// glamor
+@font-face {
+    font-family: 'glamor';
+    src: url('../font/glamor/Glamor-LightItalic.ttf') format('truetype'); 
 }

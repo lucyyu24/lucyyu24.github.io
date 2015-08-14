@@ -3,22 +3,25 @@
  */
 .site-header {
     min-height: 56px;
-    margin-top: 30px;  
-    background-color: lighten($grey-color, 47%); 
+    margin-top: 55px;  
+    margin-bottom: 50px;  
+    background-color: lighten($brand-color, 47%); 
+    // lighten($grey-color, 47%); 
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
+    font-family: glamor !important; 
+    font-size: 75px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
     &,
-    &:visited {
+    &:hover {
         color: $grey-color-dark;
     }
 }
@@ -32,8 +35,12 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $grey-color;
         line-height: $base-line-height;
+
+        &:hover {
+            color: $grey-color-dark;
+        }
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
