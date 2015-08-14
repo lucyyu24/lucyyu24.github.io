@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Times, Times New Roman, sans-serif;
+$base-font-family: Times, Times New Roman, serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -14,6 +14,7 @@ $spacing-unit:     30px;
 $text-color:       darken(#828282, 20%);
 $background-color: #ffffff;
 $brand-color:      #DAA520;
+$brand-color-dark: darken($brand-color, 5%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

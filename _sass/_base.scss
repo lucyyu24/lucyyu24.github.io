@@ -93,7 +93,7 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: darken($brand-color, 15%);
+        color: brand-color-dark;
         text-decoration: none;
     }
 }
@@ -126,7 +126,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: lighten($brand-color, 47%); ;
 }
 
 code {
