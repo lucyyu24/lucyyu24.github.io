@@ -4,19 +4,20 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Avenir, Arial, sans-serif;
+$base-font-family: Times, Times New Roman, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       darken(#828282, 20%);
 $background-color: #ffffff;
-$brand-color:      #FE2E64;
+$brand-color:      #DAA520;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
+$grey-color-medium: lighten($grey-color, 20%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
@@ -66,4 +67,8 @@ $on-laptop:        800px;
 
 .socicon {
 	font-family: 'socicon' !important; 
+    color: lighten($brand-color, 15%);
+    &:hover {
+        color: darken($brand-color, 5%);
+    }
 }

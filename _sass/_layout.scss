@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    margin-top: 30px;  
+    background-color: lighten($grey-color, 47%); 
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -92,7 +92,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -107,16 +106,15 @@
     margin-left: 0;
 }
 
-.nav-list {
-    margin-left: 0;
+.social-nav-list {
     list-style:none;
     margin: 0 auto; 
     width: 100%; 
     text-align:center; 
     li{
         display:inline; 
-        padding-right: 10px; 
-        padding-left: 10px; 
+        padding-right: 15px; 
+        padding-left: 15px; 
     }
     a { 
         color: $grey-color;
