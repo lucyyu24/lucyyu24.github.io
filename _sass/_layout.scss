@@ -200,7 +200,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
 }
 
@@ -209,6 +209,7 @@
     font-family: avenir !important; 
     color: $brand-color-dark;
     margin-bottom: 8px;
+    margin-right :15px;
 }
 
 .post-link {
@@ -217,7 +218,15 @@
     color: $grey-color-dark; 
 }
 
-
+.post-link-archive {
+    display: inline;
+    font-size: $small-font-size *1.1;
+    font-family: avenir !important; 
+    color: $grey-color-dark; 
+    @include media-query($on-phone) {
+        display: block;
+    }
+}
 
 /**
  * Posts
