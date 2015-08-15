@@ -23,6 +23,13 @@
     &:hover {
         color: $grey-color-dark;
     }
+
+    @include media-query($on-phone) {
+        font-size: 80px;
+    }
+    @include media-query($on-small-phone) {
+        font-size: 66px;
+    }
 }
 
 .site-nav {
