@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title
 title:  "First Post and on the Feeling of Being Judged"
 date:   2015-08-14 09:10:00
 categories: musing
