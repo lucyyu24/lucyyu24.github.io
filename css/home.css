@@ -1,0 +1,40 @@
+.btn-primary {
+	background-color: #54C571;
+	border-color: transparent;
+}
+
+.btn-primary:hover, .btn-primary:active {
+	background-color: #3EA055;
+	border-color: transparent;
+}
+
+.container {
+	padding-top: 70px; 
+}
+
+.jumbotron {
+	color: white;
+	background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) ), url('/images/backdrop.jpg');
+	background-color: #AEAEAE;
+	text-align: center;
+	height: 484px;
+}
+
+
+.navbar-default{
+	background-color: white ;
+	border-color: white ;
+	font-size: 20px ; 
+	padding-bottom: 50px ;
+}
+
+#siteTitle {
+	display:inline;
+	margin-top:-20px;
+	margin-left: 10px;
+}
+
+#jewel {
+	margin-top:-20px;
+	display:inline
+}
