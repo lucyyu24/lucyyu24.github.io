@@ -17,7 +17,8 @@
 	background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) ), url('/images/backdrop.jpg');
 	background-color: #AEAEAE;
 	text-align: center;
-	height: 484px;
+	min-height: 484px;
+	background-size: cover;
 }
 
 
@@ -35,6 +36,18 @@
 }
 
 #jewel {
-	margin-top:-20px;
+	margin-top:-30px;
 	display:inline
+}
+
+#aboutMe h1 {
+	font-size:30px;
+}
+
+#aboutMe a:link, a:visited {
+		color: #54C571;
+}
+
+#aboutMe a:hover, a:active {
+		color: #3EA055
 }
