@@ -40,14 +40,14 @@
 	display:inline
 }
 
-.aboutMe h1 {
+#aboutMe h1 {
 	font-size:30px;
 }
 
-.aboutMe a:link, .aboutMe a:visited {
+#aboutMe a:link, #aboutMe a:visited {
 		color: #54C571;
 }
 
-.aboutMe a:hover, .aboutMe a:active {
+#aboutMe a:hover, #aboutMe a:active {
 		color: #3EA055
 }
