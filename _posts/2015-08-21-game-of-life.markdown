@@ -21,7 +21,7 @@ These rules lead to some fairly interesting results with bacteria-like pixels cr
 
 After some iterations of the game, the unfortunate blobs that were only meant to be works-of-progress are eliminated by the rules of this universe while other life forms become stable and are able to survive. Two notable categories of life forms that can be easily spotted are still lifes and oscillators. In the above image, the 2 by 2 squares and circular objects scattered across the grid mostly undisturbed are still lifes, while the blinking lines are oscillators that move in consistent patterns. Game of Life hobbyists on the Internet have been diligently recording, naming, and organizing these life forms in the spirit of biologists. Here are some examples of known "creatures" that were given very endearing names (my favorite is loaf):
 
-![Life Forms](http://searchenginewatch.com/IMG/609/227609/conways-game-of-life-patterns.png?1435120564){: .center-image}
+![Life Forms](http://mathworld.wolfram.com/images/eps-gif/StillLifes_1000.gif){: .center-image}
 
 The most magical part about this model is that so much complexity is borne out of such simple, trivial-sounding rules. After the initial seeding, the game seems to take on a mind of its own and starts behaving in unpredictable ways. This is why Conway named the game "Life," after the most seemingly complex and unpredictable thing in our world. In a BBC documentary, Conway made the witty remark that "mathematics is the simple bit. It's the stuff we can understand. It's cats that are complicated." Some of the world's greatest mysteries indeed lie within cats, and of course, ourselves. 
 
