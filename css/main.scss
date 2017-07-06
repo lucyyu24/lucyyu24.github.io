@@ -4,17 +4,18 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Times, Times New Roman, serif;
-$base-font-size:   18px;
+$base-font-family: Georgia, Times, Times New Roman, serif;
+$base-font-size:   17px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.75;
 
-$spacing-unit:     30px;
+$spacing-unit:     60px;
 
 $text-color:       darken(#828282, 20%);
 $background-color: #ffffff;
-$brand-color:      #7851A9;
-$brand-color-dark: darken($brand-color, 5%);
+$brand-color:      lighten(#AAA565, 5%);
+$brand-color-light: lighten($brand-color, 40%);
+$brand-color-dark: darken($brand-color, 10%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -22,12 +23,12 @@ $grey-color-medium: lighten($grey-color, 20%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    700px;
 
 $on-palm:          600px;
 $on-small-phone:   350px; 
 $on-phone:         450px; 
-$on-laptop:        800px;
+$on-laptop:        700px;
 
 
 
@@ -73,10 +74,4 @@ $on-laptop:        800px;
     &:hover {
         color: darken($grey-color, 5%);
     }
-}
-
-// glamor
-@font-face {
-    font-family: 'glamor';
-    src: url('../font/glamor/Glamor-LightItalic.ttf') format('truetype'); 
 }

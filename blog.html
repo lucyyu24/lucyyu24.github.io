@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blog
-permalink: /blog/
+title: Feed
+permalink: /blog/new/
 ---
 
 <div class="home">
@@ -13,7 +13,7 @@ permalink: /blog/
 
       <header class="post-header">
         <p class="post-meta">{{ post.date | date: "%m / %d / %Y "}}{{ '&nbsp; | &nbsp;'}}{% if post.meta %}{{ post.meta | upcase }}{% endif %}</p> 
-        <h1 class="post-title">{{ post.title }}</h1>
+        <h1 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
       </header>
      
       <article class="post-content">
