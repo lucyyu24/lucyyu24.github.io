@@ -3,7 +3,7 @@ layout: post
 title:  "First Post and on the Feeling of Being Judged"
 date:   2015-08-14 09:10:00
 categories: blog
-meta: personal
+meta: life
 ---
 This is so awkward. 
 
