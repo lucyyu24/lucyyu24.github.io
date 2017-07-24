@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Best Horse is the Worse Horse"
+title:  "The Best Horse is the Worst Horse"
 date:   2017-07-11 11:30:00
 categories: blog
 meta: life
