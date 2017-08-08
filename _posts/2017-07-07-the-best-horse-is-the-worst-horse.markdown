@@ -10,7 +10,7 @@ There's a great metaphor about horses in ["Zen Mind, Beginner's Mind" by Shunryu
 
 >...it is said that there are four kinds of horses: excellent ones, good ones, poor ones, and bad ones. The best horse will run slow and fast, right and left, at the driver’s will, before it sees the shadow of the whip; the second best will run as well as the first one does, just before the whip reaches its skin; the third one will run when it feels pain on its body; the fourth will run after the pain penetrates to the marrow of its bones.
 
-In the usual understanding of Zen—and in almost everything else—we always want to be the best horse, if not the second best. Perhaps we also want to evaluate how good we are and compare with other horses. This is a misunderstanding of Zen, and ”if you practice Zen in the right way it does not matter whether you are the best horse or the worst one." 
+In the usual understanding of Zen—and in almost everything else—we always want to be the best horse, if not the second best. Perhaps we also want to evaluate how good we are and compare with other horses. This is a misunderstanding of Zen, and "if you practice Zen in the right way it does not matter whether you are the best horse or the worst one." 
 
 Suzuki goes on to say that the contrary might be true:
 
