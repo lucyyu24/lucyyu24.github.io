@@ -9,7 +9,7 @@
 }
 
 .container {
-	padding-top: 70px; 
+	padding-top: 70px;
 }
 
 .jumbotron {
@@ -25,13 +25,14 @@
 .navbar-default{
 	background-color: white ;
 	border-color: white ;
-	font-size: 20px ; 
+	font-size: 20px ;
 	padding-bottom: 50px ;
 }
 
 #siteTitle {
 	display:inline;
-	margin-top:-20px;
+	
+	margin-top: -20px;
 	margin-left: 10px;
 }
 
