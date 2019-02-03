@@ -6,7 +6,7 @@ categories: blog
 meta: life
 ---
 
-There's a great metaphor about horses in ["Zen Mind, Beginner's Mind" by Shunryu Suzuki](https://www.amazon.com/Shunryu-Suzuki-Beginners-Informal-Meditation/dp/B0064CKP6M/ref=sr_1_4?ie=UTF8&qid=1549212782&sr=8-4&keywords=zen+mind+beginners+mind+by+shunryu+suzuki) used to explain the _marrow_, or essence, of Zen. It starts off like this:
+There's a great metaphor about horses in ["Zen Mind, Beginner's Mind" by Shunryu Suzuki](https://www.amazon.com/gp/product/1590308492/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1590308492&linkCode=as2&tag=lucyyu-20&linkId=fa1ddb3af068d623570737a81637c2c4) used to explain the _marrow_, or essence, of Zen. It starts off like this:
 
 >...it is said that there are four kinds of horses: excellent ones, good ones, poor ones, and bad ones. The best horse will run slow and fast, right and left, at the driver’s will, before it sees the shadow of the whip; the second best will run as well as the first one does, just before the whip reaches its skin; the third one will run when it feels pain on its body; the fourth will run after the pain penetrates to the marrow of its bones.
 
