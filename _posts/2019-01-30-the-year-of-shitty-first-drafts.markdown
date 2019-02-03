@@ -6,7 +6,7 @@ categories: blog
 meta: life
 ---
 
-One of my favourite takeaways from Anne Lamott's [*Bird by Bird*](https://www.goodreads.com/book/show/12543.Bird_by_Bird) is the importance of writing shitty first drafts--an embarrassing, messy preliminary attempt at something you might have high expectations for:
+One of my favourite takeaways from Anne Lamott's [*Bird by Bird*](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1549212834&sr=8-1&keywords=bird+by+bird+some+instructions+on+writing+and+life+by+anne+lamott) is the importance of writing shitty first drafts--an embarrassing, messy preliminary attempt at something you might have high expectations for:
 
 >All good writers write them. This is how they end up with good second drafts and terrific third drafts.
 
