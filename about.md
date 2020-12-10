@@ -4,4 +4,12 @@ title: About
 permalink: /blog/about/
 ---
 
-Hello there, you've landed on a space for my little writing hobby. You can find me elsewhere on [Twitter](https://twitter.com/_LucyYu), [LinkedIn](https://www.linkedin.com/in/lucyu), and [Goodreads](https://www.goodreads.com/user/show/27164358-lucy-yu). 
+Who is Lucy?
+
+¯\\\_(ツ)_/¯
+
+1. A living, breathing constellation that evolves and persists. A self-reconfiguring pattern. An ouroboros feasting on the vestige of past selves.
+
+2. Personality structure: enneagram 7. In search of boundless freedom. Debilitated by claustrophobia and an inner restlessness searching for something that *ought to be more than this.*
+
+3. An inner messiness that wants to be seen -- to express itself by exploding in full ecstasy and color, peering through a cool exterior that edits, fears, and chastises.
