@@ -13,3 +13,5 @@ Who is Lucy?
 2. Personality structure: enneagram 7. In search of boundless freedom. Debilitated by claustrophobia and an inner restlessness searching for something that *ought to be more than this.*
 
 3. An inner messiness that wants to be seen -- to express itself by exploding in full ecstasy and color, peering through a cool exterior that edits, fears, and chastises.
+
+4. An alien -- in the world but not of the world -- on the journey home. 
