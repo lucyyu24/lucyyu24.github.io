@@ -14,4 +14,4 @@ Who is Lucy?
 
 3. An inner messiness that wants to be seen -- to express itself by exploding in full ecstasy and color, peering through a cool exterior that edits, fears, and chastises.
 
-4. An alien -- in the world but not of the world -- on the journey home.
+4. An alien -- in the world but not of the world -- on the journey home. 
