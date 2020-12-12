@@ -46,7 +46,7 @@ And she does it again. This time with toilet paper in the bathroom supplies aisl
 
 I then almost couldn’t believe my luck as we walked past a featured vacuum cleaner claiming to pick up any amount of hair. But then I had an awakening—I realized I already have a vacuum cleaner at home.
 
-As the little old lady held up a box of frozen chicken Pad Thai, I had the somber realization that this is where our paths diverge and it’s time to part ways. I have my own journey to embark on. Resisting the tear in my eye I looked down at my flyer and, for the second time that day, the universe had given me a sign. This time in the form of a written message:  “Free Scrubbing Bubbles all-purpose bathroom cleaner (for mirrors, tubs, toilets) with the purchase of any Royale toilet paper.”
+As the little old lady held up a box of frozen chicken Pad Thai, I had the somber realization that this is where our paths diverge and it’s time to part ways. I have my own journey to embark on. Resisting the tear in my eye I looked down at my flyer and, for the second time that day, the universe had given me a sign. This time in the form of a written message: "Free Scrubbing Bubbles all-purpose bathroom cleaner (for mirrors, tubs, toilets) with the purchase of any Royale toilet paper."
 
 I could not refuse the call.
 
@@ -68,4 +68,4 @@ Before I knew it I was back home with a renewed confidence. I opened my bathroom
 
 I picked up my Walmart shopping bag and a white slip of paper fell to the floor—it’s the receipt. I squatted to look and a smile came over my face as I read the four words at the bottom which made me realize what this journey had been all about:
 
- “Save money. Live better.”
+“Save money. Live better. ☺ ”
