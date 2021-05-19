@@ -6,8 +6,6 @@ categories: blog
 meta: creative-writing
 ---
 
-> This is a short story I wrote last summer. LOL. ENJOY!
-
 When I opened my eyes this morning, I thought today was going to be just like any other day. I turned off my Himalayan salt lamp and drew the curtains open before reaching for my bed side gratitude journal and writing down three things I'm grateful for this morning:
 
 1. me
