@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stability Through Movement"
+title:  "Stability through Movement"
 date:   2021-07-04 20:00:00
 categories: blog
 meta: creative-writing
