@@ -12,4 +12,4 @@ In the same way a flower is a flower, a tree is a tree, movement, is my center. 
 
 My depth, my path, my truth, my integrity will not look like yours. I may not find peace sitting in an ashram, chanting quietly to myself. Rather, I may find peace in the moment to moment unfolding of my truth self, the big, cosmic "yes" to the invitation of life to be more, to love more, to thyself stay true. To deny this path is to default to a journey not worth taking.
 
-But one day, when all is said and done, basking in the glory of a day well spent, I may just join you on the mat, sitting, in stillness with no where to go, no one to be.
+But one day, when all is said and done, basking in the glory of a day well spent, I may just join you on the mat, sitting, in stillness: with no where to go, no one to be.
