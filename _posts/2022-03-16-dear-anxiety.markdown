@@ -11,7 +11,7 @@ I'm sorry for how I've treated you in the past. When you first showed up in my l
 
 But when you raged on without rhyme or reason I admit I was scared of you. I tried my best to ignore you because your demands seemed so varied and endless that I was afraid of being subsumed by your storms. In truth I didn't have the capacity to witness you without being caught up myself -- I only ignored you because I was scared shitless.
 
-And then came the times when I placated you like a child. I admit this was disrespectful. I thought another tub or ice-cream or going somewhere far away would stop you from screaming. I didn't know what to do. I just wanted you to stop and I was willing to do anything to make you stop. I was willing to cater to your every whim, every preference, so that you wouldn't find a reason to scream anymore but that only made you scream louder.
+And then came the times when I placated you like a child. I admit this was disrespectful. I thought another tub or ice-cream or going somewhere far away would make you go away. I didn't know what to do. I just wanted you to stop and I was willing to do anything to make you stop. I was willing to cater to your every whim, every preference, so that you wouldn't find a reason to scream anymore but that only made you scream louder.
 
 All this time I disowned you, placated you, pushed you away because I thought I was somehow above you, better than. I didn't understand it was you that made me.
 
