@@ -25,6 +25,8 @@ Look around you.
 
 Have you ever seen so much beauty?
 
+![lands_end](/images/lands_end.jpg){: .center-image }
+
 I now understand my role in the perpetuation of this cosmic dance — and that is to become the ground that you seek. To let you know that even in the depths of insecurity you have always been held by the earth beneath your feet, that even in the depths of suffering there has always been love.
 
 And as the chaos of the old world falls apart around you, I hold out my arms for the day you melt back into me.
