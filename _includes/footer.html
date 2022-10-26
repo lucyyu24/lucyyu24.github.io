@@ -4,18 +4,16 @@
 
     <div class="footer-col">
         <ul class="social-nav-list">
+          {% if site.instagram_username %}
+          <li>
+            <a href="https://instagram.com/{{ site.instagram_username }}"><span class="socicon">x</span></a>
+          </li>
+          {% endif %}
           {% if site.twitter_username %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}"><span class="socicon">a</span></a>
           </li>
           {% endif %}
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}"><span class="socicon">Q</span>
-            </a>
-          </li>
-          {% endif %}
-
           {% if site.linkedin_username %}
           <li>
             <a href="https://ca.linkedin.com/in/{{ site.linkedin_username }}"><span class="socicon">j</span>
