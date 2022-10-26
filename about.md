@@ -4,7 +4,7 @@ title: About
 permalink: /blog/about/
 ---
 
-Who is Lucy?
+Who am I?
 
 ¯\\\_(ツ)_/¯
 

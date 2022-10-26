@@ -1,12 +1,12 @@
 # Site settings
-title: Lucy Yu
+title: Zanny
 email: lucyyu1996@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Computer science student at UWaterloo. 
+  Ouroboros.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://lucyyu.me" # the base hostname & protocol for your site
+url: "https://zanny.net" # the base hostname & protocol for your site
 github_username:  lucyyu24
-linkedin_username:  lucyu
+linkedin_username:  zannyxy
 soundcloud_username: lucyu
 
 # Build settings
