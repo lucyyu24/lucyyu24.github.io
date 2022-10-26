@@ -21,7 +21,6 @@
 	background-size: cover;
 }
 
-
 .navbar-default{
 	background-color: white ;
 	border-color: white ;
@@ -31,7 +30,7 @@
 
 #siteTitle {
 	display:inline;
-	
+
 	margin-top: -20px;
 	margin-left: 10px;
 }

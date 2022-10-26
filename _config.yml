@@ -12,3 +12,8 @@ twitter_username: zannyxy
 
 # Build settings
 markdown: kramdown
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+plugins:
+  - jekyll-paginate
