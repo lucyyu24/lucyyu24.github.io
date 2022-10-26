@@ -8,6 +8,7 @@ url: "https://zanny.net" # the base hostname & protocol for your site
 github_username:  lucyyu24
 linkedin_username:  zannyxy
 soundcloud_username: lucyu
+twitter_username: zannyxy
 
 # Build settings
 markdown: kramdown

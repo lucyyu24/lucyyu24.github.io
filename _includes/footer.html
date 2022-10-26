@@ -4,9 +4,11 @@
 
     <div class="footer-col">
         <ul class="social-nav-list">
+          {% if site.twitter_username %}
           <li>
-            <a href="https://twitter.com/_LucyYu"><span class="socicon">a</span></a>
+            <a href="https://twitter.com/{{ site.twitter_username }}"><span class="socicon">a</span></a>
           </li>
+          {% endif %}
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}"><span class="socicon">Q</span>
@@ -18,14 +20,14 @@
           <li>
             <a href="https://ca.linkedin.com/in/{{ site.linkedin_username }}"><span class="socicon">j</span>
             </a>
-          </li>        
+          </li>
           {% endif %}
 
           {% if site.soundcloud_username %}
           <li>
             <a href="https://soundcloud.com/{{ site.soundcloud_username }}"><span class="socicon">n</span>
             </a>
-          </li> 
+          </li>
           {% endif %}
 
           <li><a href="mailto:{{ site.email }}"><span class="socicon">@</span></a></li>
@@ -34,7 +36,7 @@
             <a href="{{ "/feed.xml"| prepend: site.baseurl}}"><span class="socicon">,</span>
             </a>
           </li>
-        
+
         </ul>
       </div>
 
