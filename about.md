@@ -4,9 +4,9 @@ title: About
 permalink: /blog/about/
 ---
 
-Who am I?
+![ouroboros](/images/ouroboros.jpg){: .center-image }
 
-¯\\\_(ツ)_/¯
+Who am I?
 
 1. A living, breathing constellation that evolves and persists. A self-reconfiguring pattern. An ouroboros feasting on the vestige of past selves.
 
