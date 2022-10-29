@@ -6,9 +6,9 @@ permalink: /blog/about/
 
 Who am I?
 
-1. A living, breathing constellation that evolves and persists. A self-reconfiguring pattern. An ouroboros feasting on the vestige of past selves.
-
 ![ouroboros](/images/ouroboros.jpg){: .center-image }
+
+1. A living, breathing constellation that evolves and persists. A self-reconfiguring pattern. An ouroboros feasting on the vestige of past selves.
 
 2. Personality structure: enneagram 7. In search of boundless freedom. Debilitated by claustrophobia and an inner restlessness searching for something that *ought to be more than this.*
 
