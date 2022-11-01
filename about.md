@@ -15,3 +15,5 @@ Who am I?
 3. A messy, rawness that wants to be seen -- to express itself by exploding in full ecstasy and color, peering through a cool exterior that edits, fears, and chastises.
 
 4. An alien -- in the world but not of the world -- on the journey home.
+
+If you enjoy my work, you can [support me here](https://www.paypal.com/donate/?business=VJ4JRPDPAKHMS&no_recurring=0&item_name=GIVE+ME+SUHPORRRRT&currency_code=USD) to make my dream of becoming a full-time artist a reality. 
