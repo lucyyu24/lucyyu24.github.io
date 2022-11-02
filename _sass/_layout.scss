@@ -2,16 +2,17 @@
  * Site header
  */
 .site-header {
-    min-height: 56px;
+    min-height: 58px;
     margin-top: 55px;
     margin-bottom: 40px;
-    background-color: $brand-color-light;
+    background-color: $brand-color;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
     font-family: $site-title-font-family;
+    font-weight: bold;
     font-size: 40px;
     font-style: italic;
     line-height: 56px;
@@ -19,7 +20,10 @@
     margin-bottom: 0;
     float: left;
 
-    &,
+    & {
+      color: #fff;
+    }
+
     &:hover {
         color: $brand-color-dark;
     }
@@ -32,6 +36,15 @@
     }
 }
 
+.block-hover {
+  &:hover {
+      background-color: $brand-color;
+      padding: 4px 6px 4px 6px;
+      color: #fff;
+      text-decoration: none;
+  }
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -41,11 +54,11 @@
     }
 
     .page-link {
-        color: $grey-color;
+        color: #fff;
         line-height: $base-line-height;
 
         &:hover {
-            color: $grey-color-dark;
+            color: $brand-color-dark;
         }
 
         // Gaps between nav items, but not on the first one
@@ -219,9 +232,10 @@
 .post-meta {
     font-size: $small-font-size;
     font-family: $post-title-font-family;
-    color: $brand-color-dark;
+    color: $brand-color;
+    font-weight: bold;
     margin-bottom: 8px;
-    margin-right :15px;
+    margin-right : 10px;
 }
 
 .post-link {
@@ -235,8 +249,14 @@
     font-size: $small-font-size *1.1;
     font-family: $post-title-font-family;
     color: $grey-color-dark;
+    padding: 4px 6px 4px 6px;
     @include media-query($on-phone) {
         display: block;
+    }
+    &:hover {
+        background-color: $brand-color;
+        color: #fff;
+        text-decoration: none;
     }
 }
 
