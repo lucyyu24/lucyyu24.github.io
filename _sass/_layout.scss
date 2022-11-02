@@ -72,7 +72,7 @@
         top: 9px;
         right: 30px;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $brand-color;
         border-radius: 5px;
         text-align: right;
 
@@ -90,7 +90,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: $brand-color;
                 }
             }
         }
@@ -108,6 +108,7 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+            color: $grey-color-dark;
         }
     }
 }
@@ -229,19 +230,19 @@
     }
 }
 
+.post-link {
+    display: block;
+    font-size: 25px;
+    color: $grey-color-dark;
+}
+
 .post-meta {
     font-size: $small-font-size;
     font-family: $post-title-font-family;
     color: $brand-color;
     font-weight: bold;
-    margin-bottom: 8px;
-    margin-right : 10px;
-}
-
-.post-link {
-    display: block;
-    font-size: 25px;
-    color: $grey-color-dark;
+    padding: 0;
+    margin-right: 8px;
 }
 
 .post-link-archive {
@@ -250,9 +251,12 @@
     font-family: $post-title-font-family;
     color: $grey-color-dark;
     padding: 4px 6px 4px 6px;
+
     @include media-query($on-phone) {
         display: block;
+        padding: 0px !important;
     }
+
     &:hover {
         background-color: $brand-color;
         color: #fff;
