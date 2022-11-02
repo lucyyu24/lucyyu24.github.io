@@ -5,6 +5,8 @@
 
 // Our variables
 $base-font-family: Georgia, Times, Times New Roman, serif;
+$post-title-font-family: Avenir;
+$site-title-font-family: Unna;
 $base-font-size:   17px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.75;
@@ -26,8 +28,8 @@ $grey-color-dark:  darken($grey-color, 25%);
 $content-width:    640px;
 
 $on-palm:          600px;
-$on-small-phone:   350px; 
-$on-phone:         450px; 
+$on-small-phone:   350px;
+$on-phone:         450px;
 $on-laptop:        640px;
 
 
@@ -69,7 +71,7 @@ $on-laptop:        640px;
 }
 
 .socicon {
-	font-family: 'socicon' !important; 
+	font-family: 'socicon' !important;
     color: lighten($grey-color, 15%);
     &:hover {
         color: darken($grey-color, 5%);

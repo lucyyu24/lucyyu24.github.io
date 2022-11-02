@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    font-family: unna !important;
+    font-family: $site-title-font-family;
     font-size: 40px;
     font-style: italic;
     line-height: 56px;
@@ -218,7 +218,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    font-family: avenir !important;
+    font-family: $post-title-font-family;
     color: $brand-color-dark;
     margin-bottom: 8px;
     margin-right :15px;
@@ -233,7 +233,7 @@
 .post-link-archive {
     display: inline;
     font-size: $small-font-size *1.1;
-    font-family: avenir !important;
+    font-family: $post-title-font-family;
     color: $grey-color-dark;
     @include media-query($on-phone) {
         display: block;
