@@ -44,7 +44,7 @@ getting in our way.
 
 But maybe life is a river of to-do lists and 
 
-we can make titianium rafts that won't deflat with the tides
+we can make titianium rafts that won't deflate with the tides
 
 because vehicles that can't survive paper cuts 
 
