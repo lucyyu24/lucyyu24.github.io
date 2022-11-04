@@ -48,7 +48,7 @@ because vehicles that can't survive paper cuts are here for a good time not a lo
 
 And maybe life can be a to-do list of rivers where we raft towards our destination, 
 
-because planning a route where we have to cross rapids might just be a stupid idea. 
+because planning a route where we have to cross rapids might be a stupid idea. 
 
 <br />
  
