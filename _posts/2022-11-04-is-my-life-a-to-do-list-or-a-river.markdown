@@ -42,13 +42,23 @@ getting in our way.
 
 <br />
 
-But maybe life is a river of to-do lists and we can make titianium rafts that won't deflat with the tides
+But maybe life is a river of to-do lists and 
 
-because vehicles that can't survive paper cuts are here for a good time not a long time.
+we can make titianium rafts that won't deflat with the tides
 
-And maybe life can be a to-do list of rivers where we raft towards our destination, 
+because vehicles that can't survive paper cuts 
 
-because planning a route where we have to cross rapids might be a stupid idea. 
+are here for a good time not a long time.
+
+<br />
+
+And maybe life can be a to-do list of rivers 
+
+where we raft towards our destination, 
+
+because planning a route where we have to cross rapids 
+
+might be a stupid idea. 
 
 <br />
  
