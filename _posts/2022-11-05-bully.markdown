@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bully”
+title:  "Bully"
 date:   2022-11-05 10:29:00
 categories: blog
 meta: life
