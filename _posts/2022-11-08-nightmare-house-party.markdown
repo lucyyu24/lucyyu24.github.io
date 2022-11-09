@@ -27,7 +27,7 @@ This must have happened 10 times before I finally woke up in cold sweat.
 <div align="center"> ∞ </div>
 <br/>
 
-I find it funny that this nightmare captures my worst fears:
+I find it funny that this nightmare captures some of my worst fears:
 - Claustrophobia, being stuck in one place with no where to turn.
 - Helplessness, loss of agency.
 - Disappointing people that are really nice to me.
