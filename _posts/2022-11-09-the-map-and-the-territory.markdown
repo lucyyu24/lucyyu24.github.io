@@ -33,7 +33,7 @@ When I was 19 I wanted to be an entrepreneur in my twenties so I can have fuck-y
 
 It turns out I don’t need that much money, neither do I want to wait that long.
 
-At the start of this post I did not intend to come out about 3 different things: leaving my job, struggles with depression, intention of becoming an artist.
+At the start of this post I did not intend to come out about 3 different things: leaving my job, struggles with depression, intention of becoming an artist -- 
 
 But alas I did. Not all announcements are made with fanfare — some breeze past us like summer winds.  
 
