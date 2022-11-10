@@ -21,11 +21,11 @@ I’m writing these words as she’s being tucked in, rocked by slow Kirtan musi
 <div align="center"> ∞ </div>
 <br/>
 
-When I was around 7 I had grand visions of what my life was going to be like. I was going to marry as early as I can and have a kid before I’m 26 so that my grandparents can experience what it’s like to have a great-grand child.
+When I was around 7 I had grand visions of what my life was going to be like. I was going to marry as early as I can, and have a kid before I’m 26 so that my grandparents can experience what it’s like to have a great-grand child.
 
 26 came and as far as I’m concerned, there’s no kid coming any time soon.
 
-I remember being unable to understand why depression exists when watching TV dramas with my grandma. It didn’t make sense to me why anyone would not want to live.
+I remember being unable to understand why depression exists when watching dramas on TV. It didn’t make sense to me why anyone would not want to live.
 
 Then one day I was 14 and I found myself unable to be happy. For the next decade depression became my default reality.
 
