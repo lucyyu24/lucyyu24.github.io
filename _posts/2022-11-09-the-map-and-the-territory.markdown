@@ -35,7 +35,7 @@ It turns out I don’t need that much money, neither do I want to wait that long
 
 At the start of this post I did not intend to come out about 3 different things: leaving my job, struggles with depression, intention of becoming an artist --
 
-But alas I did. Not all announcements are made with fanfare — some catch us unawares, and breeze past us like summer winds.  
+But alas I did. Not all announcements are made with fanfare — some catch us unawares, breezing past us like summer winds.  
 
 <div align="center"> ∞ </div>
 <br/>
