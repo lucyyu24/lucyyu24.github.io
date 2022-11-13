@@ -6,6 +6,8 @@ categories: blog
 meta: life
 ---
 
+> A word of caution: this post could come across as judgmental towards obesity --- know that it's not my intent. 
+
 I'm at a multi-day party this weekend and instead of declaring bankruptcy on my daily writing challenge I’m leaning into it.
 
 And it's not because I really want to commit for the sake of committing --- but rather, I feel that there’s a lot of value in being with myself and integrating my experiences.
