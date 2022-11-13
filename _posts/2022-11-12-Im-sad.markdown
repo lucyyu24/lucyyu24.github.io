@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "I'm sad"
+date:   2022-11-12 10:40:00
+categories: blog
+meta: life
+---
+
+I'm sad
+
+that I can't make everyone happy. 
