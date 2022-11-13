@@ -6,7 +6,7 @@ categories: blog
 meta: life
 ---
 
-> A word of caution: this post could come across as judgmental towards obesity --- know that it's not my intent. 
+> A word of caution: this post could come across as judgmental towards obesity --- it's not my intention for it to seem that way.
 
 I'm at a multi-day party this weekend and instead of declaring bankruptcy on my daily writing challenge I’m leaning into it.
 
