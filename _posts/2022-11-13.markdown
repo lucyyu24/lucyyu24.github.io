@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Leaf"
-date:   2022-11-13 10:40:00
-categories: blog
-meta: life
----
