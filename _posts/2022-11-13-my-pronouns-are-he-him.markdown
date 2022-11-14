@@ -10,7 +10,7 @@ A couple of days ago I put out this post that talked about how in one of my wors
 
 Unpacking that further I realized the nightmare is really about people not seeing me.
 
-Most of my life I presented as this an Asian girl and was treated according to that image. There's a way in which people can be really nice to me but I don't feel seen.
+Most of my life I presented as this Asian girl and was treated according to that image. There's a way in which people can be really nice to me but I don't feel seen.
 
 When I first came out one of the first things an ex-lover said was: "but you're so feminine."
 
