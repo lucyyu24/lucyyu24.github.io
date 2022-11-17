@@ -16,7 +16,7 @@ Who am I?
 
 4. An alien -- in the world but not of the world -- on the journey home.
 
-If you enjoy my work, you can [support me](https://www.paypal.com/donate/?business=VJ4JRPDPAKHMS&no_recurring=0&item_name=%F0%9F%A6%8B+Make+my+dream+of+becoming+a+full-time+artist+a+reality+%F0%9F%A6%8B+-+Zanny&currency_code=USD) to make my dream of becoming a full-time artist a reality.
+If you enjoy my work, you can [support me](https://account.venmo.com/u/zanny-xy) to make my dream of becoming a full-time artist a reality.
 
 <br/>
 

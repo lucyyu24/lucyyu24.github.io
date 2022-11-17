@@ -6,23 +6,23 @@ categories: blog
 meta: life
 ---
 
-After every expansion, 
+After every expansion,
 
 Contraction.
 
-Did that really happen? 
+Did that really happen?
 
 Can I trust that experience?
 
-Your heart already knows the answer —-
+Your heart already knows the answer —
 
 it’s the mind that has to play catch-up.
 
 <br/>
 
-In breath, 
+In breath,
 
-out breath, 
+out breath,
 
 rhythmic pulsing,
 
