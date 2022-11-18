@@ -24,6 +24,12 @@ and a striving
 
 towards greater wisdom and knowledge
 
+if only
+
+I place him as my copilot
+
+instead of letting him drive
+
 so that I may arrive at
 
 the destiny that is
