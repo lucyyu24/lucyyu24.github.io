@@ -32,8 +32,8 @@ instead of letting him drive
 
 so that I may arrive at
 
-the destiny that is
+the destiny that
 
-meant
+meets
 
-to be.
+reality.
