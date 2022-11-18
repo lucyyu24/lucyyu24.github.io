@@ -24,7 +24,7 @@ and a striving
 
 towards greater wisdom and knowledge
 
-so that I may approach
+so that I may arrive at
 
 the destiny that is
 
