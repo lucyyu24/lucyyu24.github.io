@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "And even though"
-date:   2022-11-17 10:40:00
+date:   2022-11-18 10:40:00
 categories: blog
 meta: life
 ---
