@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "The Faucet"
+date:   2022-11-21 10:29:00
+categories: blog
+meta: life
+---
+
+![faucet](/images/faucet.jpg){: .center-image }
+
+<br />
+
+Some days
+
+the words flow smoothly and easily --
+
+an inner reality captured by outer expression,
+
+a perfect delivery,
+
+a clear channel of energy.
+
+<br />
+
+Other days
+
+the facuet spits and splatters,
+
+the flow starting and stopping,
+
+the water dark and murky.
+
+<br />
+
+The only way to clear a faucet
+
+is to let the water flow --
+
+don't just shut it off
+
+because you're embarrassed
+
+by what's coming out.
