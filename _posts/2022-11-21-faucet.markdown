@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Faucet"
+title:  "Faucet"
 date:   2022-11-21 10:29:00
 categories: blog
 meta: life
