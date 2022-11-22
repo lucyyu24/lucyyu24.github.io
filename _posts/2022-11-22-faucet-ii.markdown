@@ -6,6 +6,8 @@ categories: blog
 meta: life
 ---
 
+[(The Faucet)](https://zanny.net/blog/2022/11/21/faucet.html)
+
 ![faucet2](/images/faucet2.jpg){: .center-image }
 
 <br />
