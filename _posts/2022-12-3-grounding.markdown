@@ -12,7 +12,7 @@ About 10 minutes ago I had a major insight into what's been blocking my creative
 
 I realize that I'm always searching for something "better" instead of working with what I have.
 
-I used to be super cynical in school: during group assignments I'll almost always reject ideas suggested by others and reject them as not good enough, without looking at the idea first.
+I used to be super cynical in school: during group assignments I'll almost always reject ideas suggested by others and think that they're not good enough without looking at them first.
 
 When I don't like something I end up throwing out the whole damn thing -- the baby with the bath water.
 
