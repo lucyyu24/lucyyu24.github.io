@@ -28,7 +28,7 @@ It's like the Eskimo story:
 
 <br />
 
-In a way I'm always looking to find and execute on some perfect vision instead of working with the ingredients I already have.
+In a way I'm always looking to find and execute on some "perfect" vision instead of working with the ingredients I already have.
 
 Instead of going to the farmer's market, picking out the freshest produce and figuring out what I can make with them -- I'm conceptualizing some perfect meal in my head with hard to get ingredients and making my life miserable.
 
