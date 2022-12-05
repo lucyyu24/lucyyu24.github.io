@@ -12,7 +12,7 @@ About 10 minutes ago I had a major insight into what's been blocking my creative
 
 I realize that I'm always searching for something "better" instead of working with what I have.
 
-In school I used to be super cynical: I'll be working on a group assignment and my group mates will suggest something and I'll almost always reject it as not good enough, without looking at the idea and thinking about how it could be improved upon.
+I used to be super cynical in school: during group assignments my group mates will suggest something and I'll almost always reject it as not good enough, without looking at the idea first and building upon it.
 
 When I don't like something I end up throwing out the whole damn thing -- the baby with the bath water.
 
@@ -30,7 +30,7 @@ It's like the Eskimo story:
 
 In a way I'm always looking to find and execute on some perfect vision instead of working with the ingredients I already have.
 
-Instead of going to the farmer's market, picking out the freshest ingredients and figuring out what I can make with them -- I'm conceptualizing some perfect meal in my head with hard to get ingredients and making my life miserable.
+Instead of going to the farmer's market, picking out the freshest produce and figuring out what I can make with them -- I'm conceptualizing some perfect meal in my head with hard to get ingredients and making my life miserable.
 
 <div align="center"> ∞ </div>
 <br />
