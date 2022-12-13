@@ -65,7 +65,7 @@ I probably missed out on some good music.
 
 My favorite times in childhood were spent working on art projects in my grandparents's home: origami, contraptions made from cardboard boxes, zines.
 
-The best part was always showing my grandparents what I made when they wake up from their daily nap, because of the pure joy it would bring to their faces.
+The best part was always showing my grandparents what I made when they woke up from their daily nap, because of the pure joy it would bring to their faces.
 
 It's memories like these that remind me I've always been a butterfly no matter how mothy I try to be.
 
