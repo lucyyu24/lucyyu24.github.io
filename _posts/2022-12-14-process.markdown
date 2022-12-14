@@ -6,7 +6,7 @@ categories: blog
 meta: life
 ---
 
-![process](/images/process.jpeg){: .center-image }
+![process](/images/process-hermit.jpeg){: .center-image }
 
 <br />
 
