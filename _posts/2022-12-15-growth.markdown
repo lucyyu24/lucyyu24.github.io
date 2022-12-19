@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Growth"
+date:   2022-12-15 12:12:00
+categories: blog
+meta: life
+---
+
+![growth](/images/growth.jpeg){: .center-image }
+
+<br />
+
+Sometimes growth
+
+looks like
+
+telling
+
+somebody
+
+to fuck off.
