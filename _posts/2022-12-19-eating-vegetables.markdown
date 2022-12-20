@@ -73,7 +73,7 @@ I'm really proud of myself for finally aligning to a diet that feels good for me
 
 <br />
 
-**#2 let's stop fighting over this stuff**
+**#2 there's no point fighting over this stuff**
 
 My life has led me to this point due to a series of events which provided information, combined with the intuition I have and the choices I've made accordingly.
 
