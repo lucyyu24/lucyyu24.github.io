@@ -34,7 +34,7 @@ The seed began to sprout.
 <br />
 Then the intention laid dormant for many years.
 
-After that summer it became quickly apparent to me that it would be really difficult to keep being raw vegan, given that I didn't have money for groceries and my family was not vegan.
+After that summer it became quickly apparent to me that it would be really difficult to keep being vegan, given that I didn't have money for groceries and my family was not vegan.
 
 My parents also actively discouraged me from the lifestyle change because they didn't believe a vegan diet could be nutritionally complete.
 
@@ -52,7 +52,7 @@ I didn't want to give up fish.
 <br />
 <div align="center"> ∞ </div>
 <br />
-On the flight from Maui back to San Francisco, with the mental clarity that comes at high altitudes I felt into the experience of eating fish and realized that eventually I won't be able to do that either.
+On the flight from Maui back to San Francisco, with the mental clarity that comes at high altitudes I felt into the experience of eating fish and realized that eventually I won't be able to do that either -- it's just kinda gross.
 
 Then in January of this year I treated myself to a nice sushi dinner and that was the last time I ate fish.
 
