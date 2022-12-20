@@ -52,7 +52,7 @@ I didn't want to give up fish.
 <br />
 <div align="center"> ∞ </div>
 <br />
-On the flight from Maui back to San Francisco I felt into the experience of eating fish and had this feeling that eventually I won't be able to do that either.
+On the flight from Maui back to San Francisco, with the mental clarity given to me at high altitudes I felt into the experience of eating fish and realized that eventually I won't be able to do that either.
 
 Then in January of this year I treated myself to a nice sushi dinner and that was the last time I ate fish.
 
