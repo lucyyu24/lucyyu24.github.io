@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Eating Vegetables"
-date:   2022-12-19 12:12:00
+date:   2024-12-19 12:12:00
 categories: blog
 meta: life
 ---
 
-My first conscious memory of eating meat was when I was around 3 or 4 sitting in my grandparents's TV room.
+My first conscious memory of eating meat was when I was around 4 sitting in my grandparents's TV room.
 
-I asked my grandma what she was feeding me and felt viscerally gross at the realization I was eating a piece of dead animal.
+I asked my grandma what she was feeding me and felt a visceral disgust at the realization I was eating dead animal.
 
-A seed was planted in that moment.
+An intention seeded in me in that moment.
 <br />
 <div align="center"> ∞ </div>
 <br />
@@ -18,15 +18,13 @@ The summer I turned 17 I came across [FullyRawKristina](https://www.youtube.com/
 
 This led to one of my manic self-improvement projects: a raw vegan cleanse.
 
-I went from pretty much not knowing how to cook to going to the farmer's market 3 times a week to buy vegetables using the meager pocket money I had at the time.
-
-I would come back with a bunch of fruits and vegetables and make a juice for lunch and a salad for dinner:
+I went from pretty much not knowing how to cook to going to the farmer's market 3 times a week to buy vegetables using the meager pocket money I had at the time, making a juice for lunch and a salad for dinner:
 
 ![vegetables](/images/vegetables.png){: .center-image }
 
 The diet only lasted for two weeks but it felt like the best damn two weeks of my life.
 
-I remember having so much energy and feeling such a lightness in my body that I haven't felt before.
+I had so much energy and felt such a lightness in my body that I haven't experienced before.
 
 The seed began to sprout.
 <br />
@@ -34,9 +32,7 @@ The seed began to sprout.
 <br />
 Then the intention laid dormant for many years.
 
-After that summer it became quickly apparent to me that it would be really difficult to keep being vegan, given that I didn't have money for groceries and my family was not vegan.
-
-My parents also actively discouraged me from the lifestyle change because they didn't believe a vegan diet could be nutritionally complete.
+After that summer it became quickly apparent to me that it would be really difficult to keep being vegan, given that I didn't have money for groceries and my family discouraged me from the lifestyle change.
 
 Then life got busy, I had other things to worry about and forgot about the whole thing.
 <br />
