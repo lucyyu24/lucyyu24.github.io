@@ -6,7 +6,7 @@ categories: blog
 meta: life
 ---
 
-My EP is out today and I’m really proud of what it took to get here.
+My EP is out today (!!) and I’m really proud of what it took to get here.
 
 One of the hardest things for me to do is accepting a version of myself that feels outdated. I habitually cringe at the things I’ve said or done in the past — because who I was always feels less true than who I am now.
 
