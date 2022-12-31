@@ -16,4 +16,4 @@ In spiritual teachings they say the world is an illusion and the goal of life is
 
 I no longer want to keep it all in -- there’s beauty in the becoming and not just what’s become, there's wholeness in embracing every part of the journey -- the butterfly and the cocoon it emerged from are not separate from each other.
 
-So here it is: [my first EP](https://open.spotify.com/album/2p9qv4jN1kTiUrUNse9inb?si=KENUTmwoTo-xI4rRUKmHKw).
+So here it is: my first EP on [Spotify](https://open.spotify.com/album/2p9qv4jN1kTiUrUNse9inb?si=KENUTmwoTo-xI4rRUKmHKw) and [Apple Music](https://music.apple.com/us/album/chartreuse-phoenix-single/1661683512).
