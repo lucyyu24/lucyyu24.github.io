@@ -14,4 +14,4 @@ This EP was actually recorded in September but half-abandoned out of a feeling t
 
 In spiritual teachings they say the world is an illusion and the goal of life is arriving at truth. I took this way too seriously and what I'm learning now that my quest towards truth has been the very obstacle blocking it: at times I get so worried about saying something untrue that I end up saying nothing at all.
 
-I no longer want to keep it all in – who I was yesterday is just as true as who I am now, there’s beauty in the becoming and not just what’s become -- the butterfly and the cocoon are not separate from each other.
+I no longer want to keep it all in – who I was yesterday is just as true as who I am now, there’s beauty in the becoming and not just what’s become -- there's no separation between the cocoon and the butterfly.
