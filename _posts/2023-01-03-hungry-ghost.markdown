@@ -11,7 +11,7 @@ This is the story behind track 2 of [Chartreuse Phoenix](https://zanny.net/blog/
 <div align="center"> ∞ </div>
 <br />
 
-In November of 2022 I spent a month living alone in LA.
+In November of 2021 I spent a month living alone in LA.
 
 It was a strange time -- I had just left my job and contracted a nagging cough after a trip to Mexico. I also didn't have a car so I spent most of that time in solitude.
 
