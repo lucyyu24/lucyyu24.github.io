@@ -23,7 +23,7 @@ By following this strategy my days started blurring into each other and became o
 
 I remember going for long walks along this river in Frogtown with nothing but these questions burning a hole through my chest. With no one around to distract me these questions hammered at me day and night, ruthlessly.
 
-After a really gueling walk one night I just started humming to myself and the tune for this song came out, alongside the words: "you're a hungry ghost."
+After a really gueling walk one night I just started humming to myself and the tune for this song came out, with the words: "you're a hungry ghost."
 
 <br />
 <div align="center"> ∞ </div>
