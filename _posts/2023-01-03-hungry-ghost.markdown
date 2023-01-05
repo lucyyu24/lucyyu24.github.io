@@ -82,3 +82,7 @@ You’re a hungry ghost
 still a part of me
 
 so fan the flames that immolate my restless heart to peace.
+
+<br />
+
+![hungry ghost](https://www.learnreligions.com/thmb/LduNMKAm7cQCy2nlakk9e_tjPR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1wheelrealm-56a0c4133df78cafdaa4d32c.jpg){: .center-image }

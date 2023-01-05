@@ -43,3 +43,7 @@ you kiss these scars you can’t erase
 “You pulled the trigger my dear
 
 and I’m still not over you...”
+
+<br />
+
+![ashes](/images/ashes.jpeg){: .center-image }

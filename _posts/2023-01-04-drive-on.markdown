@@ -114,3 +114,7 @@ To a place where you belong,
 to a place to write this song,
 
 drive on, my love, oh Drive on.
+
+<br />
+
+![drive on](/images/drive-on.jpeg){: .center-image }

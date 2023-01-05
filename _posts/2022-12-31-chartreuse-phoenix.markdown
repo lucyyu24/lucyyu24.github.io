@@ -24,3 +24,7 @@ For the stories behind the tracks:
 1. [Ashes](https://zanny.net/blog/2023/01/02/ashes.html)
 2. [Hungry Ghost](https://zanny.net/blog/2023/01/03/hungry-ghost.html)
 3. [Drive On](https://zanny.net/blog/2023/01/04/drive-on.html)
+
+<br />
+
+![chartreuse phoenix](/images/chartreuse-phoenix.jpeg){: .center-image }
