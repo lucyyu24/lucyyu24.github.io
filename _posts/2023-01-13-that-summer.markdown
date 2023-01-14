@@ -14,7 +14,7 @@ when the days were long and the nights were lonely
 
 face down on the carpet listening to Private Island
 
-reminiscing about the recent passing
+mourning the recent passing
 
 of dreams and visions
 
