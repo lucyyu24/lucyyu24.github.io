@@ -10,7 +10,7 @@ One of the most powerful discoveries I made in the last year is that Art = Survi
 
 It's such a big discovery that it's taken me months to say it, because I was so worried about saying it right.
 
-Instead of struggling in vain I'm just gonna let this video speak for itself and paste these paragraphs from the video description. Be prepared to have your mind blown:
+Instead of struggling in vain to articulate how deep this wisdom cuts -- I'm just gonna let this video speak for itself and paste these paragraphs from the video description. Be prepared to have your world rocked, because that's what happened to me:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fU2xCWZTlbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
