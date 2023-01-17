@@ -16,7 +16,7 @@ It's such a profound discovery that it's taken me months to talk about it, becau
 
 For my whole life I've been taught that art is a luxury, not a necessity.
 
-On the maslow's hierarchy art is something bundled with aesthetic and self-actualization needs that comes way after the satiation of food, water, shelter.
+On the maslow's hierarchy, art is something bundled with aesthetic and self-actualization needs that comes way after the satiation of food, water, shelter.
 
 So much high art has also left me questioning the role of art in society.
 
