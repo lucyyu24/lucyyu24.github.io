@@ -6,15 +6,72 @@ categories: blog
 meta: life
 ---
 
-One of the most powerful discoveries I made in the last year is that Art = Survival.
+One of the most powerful discoveries I made recently is: Art = Survival.
 
-It's such a big discovery that it's taken me months to say it, because I was so worried about saying it right.
+It's such a profound discovery that it's taken me months to talk about it, because I really wanted to give this statement the proper attention it deserves.
 
-Instead of struggling in vain to articulate how deep this wisdom cuts -- I'm just gonna let this video speak for itself and paste these paragraphs from the video description. Be prepared to have your world rocked, because that's what happened to me:
+![paintbrush warrior](https://images.discerningassets.com/image/upload/q_auto:best/c_limit,w_1000/v1590891169/vvgfpyynsxxm4sp5oowv.jpg){: .center-image }
+*"Paintbrush Warrior" by Mark Henson*
+
+
+For my whole life I've been taught that art is a luxury, not a necessity.
+
+On the maslow's hierarchy art is something bundled with aesthetic and self-actualization needs that comes way after the satiation of food, water, shelter.
+
+So much high art has also left me questioning the role of art in society.
+
+Some of it feels frivolous, disconnecting, catering to the tastes of the societal elite.
+
+<br />
+
+But what if we have it all wrong?
+
+What if art is necessary for the survival of the human spirit and species? Just as necessary as food, water, and shelter?
+
+What if our problems of war and destruction are problems of creativity?
+
+<br />
+<div align="center"> ∞ </div>
+<br />
+
+During a really memorable flight I watched the movie "Where'd You Go, Bernadette."
+
+The story is about a brilliant architect turned neurotic recluse years after leaving the craft.
+
+Mid-movie a line came on and it broke me open:
+
+"People like you must create. That's what you were brought into this world to do, Bernadette. If you don't, you become a menace to society."
+
+I believe we're all here to create, that creation is the essence of life and when we don't create we start destroying ourselves and each other.
+
+<br />
+
+Beyond channeling our energy towards creation rather than destruction, art plays the role of bridging realities.
+
+In this increasingly polarized world, art is needed now more than ever to break us out of the confines of our own minds.
+
+The mind rationalizes, weaving an echo chamber that distances ourselves from those incongruent with our realities.
+
+Art is the anchor that can ground us in our common humanity.
+
+Beyond beliefs and identities we are all creatures, flesh and bone, that speak the language of sensation and feelings.
+
+Art is the articulation of this language.  
+
+<br />
+
+Art heals. Art brings people together. Art brings people back to themselves. Art inspires. Art paints a hopeful vision of the future.
+
+<br />
+<div align="center"> ∞ </div>
+<br />
+
+Finally, if you want concrete evidence for this claim, consider this video on the Australian Aborigine surviving in one of the most inhospitable environments on the planet:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fU2xCWZTlbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br />
+
+Pasted from the video description:
 
 "The great Swiss psychologist and student and colleague of Sigmund Freud, Carl Jung, was obsessed with the Australian Aborigine.
 
@@ -46,3 +103,10 @@ Judeo-Christian myth of Genesis, it points to that ‘moment’ before Time
 where Nothing produced Something.
 
 All culture's creation myths, including the scientiﬁc explanation called “The Big Bang,” point to, or attempt to explain this relation between Nothing & Something."
+
+
+<br />
+<div align="center"> ∞ </div>
+<br />
+
+Art is survival.
