@@ -10,7 +10,7 @@ One of the most powerful discoveries I made recently is: Art = Survival.
 
 It's such a profound discovery that it's taken me months to talk about it, because I really wanted to give this statement the proper attention it deserves.
 
-![paintbrush warrior](https://images.discerningassets.com/image/upload/q_auto:best/c_limit,w_1000/v1590891169/vvgfpyynsxxm4sp5oowv.jpg){: .center-image }
+![paintbrush warrior](/images/survival.jpeg){: .center-image }
 *"Paintbrush Warrior" by Mark Henson*
 
 
