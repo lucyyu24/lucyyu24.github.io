@@ -60,7 +60,7 @@ Art is the articulation of this language.
 
 <br />
 
-Finally, art inspires us to surmount insurmountable tasks in the challenges of survival.
+Finally, art inspires us to surmount insanely difficult tasks in the challenges of survival.
 
 If you want concrete evidence, consider this video on the Australian Aborigine living in one of the most inhospitable environments on the planet:
 
