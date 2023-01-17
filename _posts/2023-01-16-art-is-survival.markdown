@@ -60,13 +60,9 @@ Art is the articulation of this language.
 
 <br />
 
-Art heals. Art brings people together. Art brings people back to themselves. Art inspires. Art paints a hopeful vision of the future.
+Finally, art inspires us to surmount insurmountable tasks in the challenges of survival.
 
-<br />
-<div align="center"> ∞ </div>
-<br />
-
-Finally, if you want concrete evidence for this claim, consider this video on the Australian Aborigine surviving in one of the most inhospitable environments on the planet:
+If you want concrete evidence, consider this video on the Australian Aborigine living in one of the most inhospitable environments on the planet:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fU2xCWZTlbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -108,5 +104,7 @@ All culture's creation myths, including the scientiﬁc explanation called “Th
 <br />
 <div align="center"> ∞ </div>
 <br />
+
+Art heals. Art brings people together. Art brings people back to themselves. Art inspires. Art paints a hopeful vision of the future.
 
 Art is survival.
