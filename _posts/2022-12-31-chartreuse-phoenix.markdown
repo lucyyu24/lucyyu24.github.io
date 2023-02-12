@@ -6,7 +6,7 @@ categories: blog
 meta: life
 ---
 
-My first EP is out today (!!) on [Spotify](https://open.spotify.com/album/2p9qv4jN1kTiUrUNse9inb?si=KENUTmwoTo-xI4rRUKmHKw) and [Apple Music](https://music.apple.com/us/album/chartreuse-phoenix-single/1661683512) and I’m really proud of what it took to get here.
+My first EP is out today (!!) on [Spotify](https://open.spotify.com/album/2p9qv4jN1kTiUrUNse9inb?si=KENUTmwoTo-xI4rRUKmHKw), [Apple Music](https://music.apple.com/us/album/chartreuse-phoenix-single/1661683512), [Youtube](https://www.youtube.com/watch?v=wujVZ0ioUfk&list=PLRYEGrtWppP0K7eSJnR6jxbYrrjNr9gy7) and I’m really proud of what it took to get here.
 
 One of the hardest things for me to do is accepting who I was. I habitually cringe at the things I’ve said or done in the past — because who I was always felt less true than who I am now.
 
