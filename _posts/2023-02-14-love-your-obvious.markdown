@@ -29,7 +29,7 @@ As I started to jog my memory, I realized my younger self had some train of thou
 
 (here's the video)
 
-<video controls="controls" src="https://video.fmid1-3.fna.fbcdn.net/v/t42.1790-2/1301045_10201474309918077_12648_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=985c63&efg=eyJybHIiOjY3NiwicmxhIjoxMDQxLCJ2ZW5jb2RlX3RhZyI6InNkIn0%3D&_nc_ohc=F86aIm0PzTQAX_DLfEp&rl=676&vabr=376&_nc_ht=video.fmid1-3.fna&oh=00_AfAU0hQaAXE9yzwytu2hhLgowA8JulGGQX5F9KifTFeNvQ&oe=63EBFCB2" width="100%"></video>
+<video controls="controls" src="/videos/whale-mural.mp4" width="100%"></video>
 
 <br />
 <div align="center"> ∞ </div>
