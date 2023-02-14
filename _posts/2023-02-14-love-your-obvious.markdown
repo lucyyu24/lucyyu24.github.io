@@ -6,7 +6,7 @@ categories: blog
 meta: life
 ---
 
-![obvious](/images/obvious.jpg){: .center-image }
+![obvious](/images/obvious.JPG){: .center-image }
 
 <br />
 
