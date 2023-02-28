@@ -6,7 +6,12 @@ categories: blog
 meta: life
 ---
 
-[I just finished my first painting in over a decade.](https://youtube.com/shorts/q6i78BktbE4)
+<iframe width="430" height="765" src="https://www.youtube.com/embed/q6i78BktbE4" title="Finishing my first painting in over a decade. (Story in video description)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br />
+
+I just finished my first painting in over a decade.
+
 
 ∞
 
