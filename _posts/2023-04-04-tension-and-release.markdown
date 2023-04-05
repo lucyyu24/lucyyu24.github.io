@@ -71,7 +71,7 @@ Yet trust is not built overnight, and chaos could ensue from extending our leash
 
 We always think we want unlimited freedom, and yet it is tension that keeps us related to one another, and in integrity.
 
-So for now, we start off with a baby leash —
+So for now, we start off with a shorter leash —
 
 pushing and pulling,
 
