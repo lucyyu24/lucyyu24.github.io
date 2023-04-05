@@ -69,10 +69,10 @@ My weirdness and creativity can be largely credited to the space I’ve been giv
 
 Yet trust is not built overnight, and chaos could ensue from extending our leash too quickly or letting it go completely.
 
-We always think we want unlimited freedom, and yet it is tension that keeps us related to one another.
+We always think we want unlimited freedom, and yet it is tension that keeps us related to one another, and in integrity.
 
 So for now, we start off with a baby leash —
 
 pushing and pulling,
 
-towards better ways to be.
+towards more harmonious ways to be.
