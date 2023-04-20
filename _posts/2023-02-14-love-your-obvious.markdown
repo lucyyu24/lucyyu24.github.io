@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Love your obvious"
-date:   2023-02-14 12:12:00
+date:   2023-02-14 11:11:00
 categories: blog
 meta: life
 ---

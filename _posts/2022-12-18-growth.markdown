@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Growth"
-date:   2022-12-18 12:12:00
+date:   2022-12-18 11:11:00
 categories: blog
 meta: life
 ---

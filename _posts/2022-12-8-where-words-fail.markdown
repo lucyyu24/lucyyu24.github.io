@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "where words fail"
-date:   2022-12-8 12:12:00
+date:   2022-12-8 11:11:00
 categories: blog
 meta: life
 ---

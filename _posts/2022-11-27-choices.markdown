@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Choices"
-date:   2022-11-27 12:12:00
+date:   2022-11-27 11:11:00
 categories: blog
 meta: life
 ---

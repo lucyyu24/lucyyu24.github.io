@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Grounding"
-date:   2022-12-3 12:12:00
+date:   2022-12-3 11:11:00
 categories: blog
 meta: life
 ---

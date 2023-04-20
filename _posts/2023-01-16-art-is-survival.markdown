@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Art is Survival"
-date:   2023-01-16 12:12:00
+date:   2023-01-16 11:11:00
 categories: blog
 meta: life
 ---

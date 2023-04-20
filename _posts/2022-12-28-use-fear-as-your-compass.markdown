@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Use fear as your compass"
-date:   2022-12-28 12:12:00
+date:   2022-12-28 11:11:00
 categories: blog
 meta: life
 ---

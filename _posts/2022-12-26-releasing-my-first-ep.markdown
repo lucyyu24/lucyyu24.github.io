@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Releasing my first EP"
-date:   2022-12-26 12:12:00
+date:   2022-12-26 11:11:00
 categories: blog
 meta: life
 ---
