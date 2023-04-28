@@ -10,7 +10,7 @@ meta: life
 
 >This piece is significant to me in more ways than one. It marks the first time I’ve used art to alchemize my decade long struggle with OCD, and the beginning of an understanding that art doesn’t need to be technically complex to be significant.
 
->This piece is so simple that I could have rendered it in MS paint in a fraction of the time but that would have taken away the healing and insights brought by the meditative process of its painting.
+>This piece is so simple that I could have rendered it in MS paint in a fraction of the time but that would have taken away the healing and insights I received during the meditative process of painting it.
 
 <br />
 
