@@ -6,6 +6,14 @@ categories: blog
 meta: life
 ---
 
+>A painting I worked on last month and the words it came with. Wasn’t ready to share until now.
+
+>This piece is significant to me in more ways than one. It marks the first time I’ve used art to alchemize my decade long struggle with OCD, and the beginning of an understanding that art doesn’t need to be technically complex to be significant.
+
+>This print is so simple that I could have rendered it in MS paint in a fraction of the time but that would have taken away its function and meaning. Art is not divorced from the artist and the significance it holds for the emotional journey of a human being.
+
+<br />
+
 ![yinyang](/images/yinyang.jpeg){: .center-image }
 
 <br />
