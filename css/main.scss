@@ -6,7 +6,7 @@
 // Our variables
 $base-font-family: Georgia, Palatino Linotype, Book Antiqua, Palatino, serif;
 $post-title-font-family: Avenir;
-$site-title-font-family: Crimson Text;
+$site-title-font-family: ocean-rush;
 $base-font-size:   17px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.75;
@@ -15,9 +15,9 @@ $spacing-unit:     48px;
 
 $text-color:       darken(#828282, 20%);
 $background-color: #ffffff;
-$brand-color:      #FFC000;
+$brand-color:      #FF3D9F;
 $brand-color-light: lighten($brand-color, 20%);
-$brand-color-dark: darken($brand-color, 4%);
+$brand-color-dark: darken($brand-color, 20%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -55,7 +55,15 @@ $on-laptop:        640px;
         "syntax-highlighting"
 ;
 
-
+// header title font
+@font-face {
+  font-family: 'ocean-rush';
+    src: url('../font/ocean_rush/ocean-rush.otf') format('opentype');
+    src: url('../font/ocean_rush/ocean-rush-webfont.woff2') format('woff2'),
+         url('../font/ocean_rush/ocean-rush-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 // socicon
 @font-face {
