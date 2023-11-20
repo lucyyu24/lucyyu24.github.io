@@ -1,24 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /blog/about/
+title: About Me
+permalink: /about/
 ---
 
-Who am I??
+Growing up I was told that being an artist is impractical and discouraged from pursuing it as a career.
 
-![ouroboros](/images/ouroboros.jpg){: .center-image }
+I spent the first chapter of my life getting a Computer Science degree and pursuing a career in tech, all the while yearning to express the vibrancy I feel within my soul.
 
-1. A living, breathing constellation that evolves and persists. A self-reconfiguring pattern. An ouroboros feasting on the vestige of past selves.
+It took me a while to see that both my parents are incredibly creative people that did not have the resources or opportunity to share their gifts and my precise reason for being here is to rewrite the story of my family.
 
-2. Personality structure: enneagram 7. In search of boundless freedom. Debilitated by claustrophobia and an inner restlessness searching for something that *ought to be more than this.*
+Now I’m on a journey of honoring my gifts and sharing them with you, in the hopes of inspiring you to unfold yours
 
-3. A messy, rawness that wants to be seen -- to express itself by exploding in full ecstasy and color, peering through a cool exterior that edits, fears, and chastises.
+and live out the brilliance that is your destiny.
 
-4. An alien -- in the world but not of the world -- on the journey home.
+⭐️
 
-You can support me by sharing this blog, my [music](https://open.spotify.com/artist/3tFavIFJyCm2OS4KUmp2fz?si=iGNiqkpTSzWjYB0l7rnzgQ), or [donating](https://www.paypal.com/paypalme/zannyxy) to make my dream of becoming a full-time artist a reality .
-
-
-<br/>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/zanny" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/zanny', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p style="margin-top: 24px"><label for="tlemail">Subscribe to my newsletter.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<br />
+![me](/images/me.png){: .center-image }
