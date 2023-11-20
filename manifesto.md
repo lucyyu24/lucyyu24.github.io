@@ -11,4 +11,5 @@ Art has always played a vital role in the survival of our species.
 My intention with this blog is to refine my thinking around what it means to be an artist in the modern world: by reflecting on my process, the responsibility of the artist, and how can we use art as way-showing towards a more whole, spiritually connected and unified future.
 
 <br />
-![tree](/images/tree.png){: .center-image }
+![paintbrush warrior](/images/survival.jpeg){: .center-image }
+*"Paintbrush Warrior" by Mark Henson*
