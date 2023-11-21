@@ -8,7 +8,7 @@ The Australian Aborigine survived one of the most inhospitable environments on t
 
 Art has always played a vital role in the survival of our species.
 
-My intention with this blog is to speak my truth, and refine my vision of what it means to be an artist: by reflecting on my process, responsibility, and view of the future.
+My intention with this blog is to refine my truth while reflecting on my artistic process, responsibility, and view of the future.
 
 <br />
 ![paintbrush warrior](/images/survival.jpeg){: .center-image }
