@@ -8,7 +8,7 @@ The Australian Aborigine survived one of the most inhospitable environments on t
 
 Art has always played a vital role in the survival of our species.
 
-We all came here to be artists. It is both our responsibility and birthright to express the vision of reality contained within us.
+We all came here to be artists. It is both our responsibility and birthright to create the vision of reality contained within us.
 
 My intention is to do this for the rest of my life.
 
