@@ -5,3 +5,5 @@ date:   2023-11-21 11:11:00
 categories: blog
 meta: life
 ---
+
+I am taking a sacred pause.
