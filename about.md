@@ -12,7 +12,7 @@ It took me a while to see that both my parents are incredibly creative people wh
 
 Now I’m on a journey of honoring my gifts and sharing them with you, in the hopes of inspiring you to unfold yours
 
-and live out the brilliance that is your destiny.
+and live out the brilliance within your destiny.
 
 ⭐️
 
