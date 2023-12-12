@@ -19,3 +19,5 @@ You can find my music on
 [Apple Music](https://music.apple.com/us/artist/zanny-xy/1661682511)
 
 [Youtube](https://www.youtube.com/@zannyxy)
+
+[Soundcloud](https://soundcloud.com/zannyxy)
