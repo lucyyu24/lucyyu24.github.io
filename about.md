@@ -10,7 +10,7 @@ I spent the first chapter of my life getting a Computer Science degree and pursu
 
 It took me a while to see that both my parents are incredibly creative people who did not have the resources or opportunity to share their gifts and my precise reason for being here is to rewrite the story of my family.
 
-Now I’m on a journey of honoring my gifts and sharing them with you, in the hopes of inspiring you to unfold yours
+Now I’m on a journey of honoring my gifts and sharing them with you. I hope to inspire you to unfold yours
 
 and live out the brilliance within your destiny.
 
