@@ -12,12 +12,4 @@ In May 2021 I moved to Hawaii and was gifted a ukulele shortly after. I began my
 
 Now I'm at the dovetail of these two journeys: combining elements of singer-songwriter and electronic music to create my own sound.
 
-You can find my music on
-
-[Spotify](https://open.spotify.com/artist/3tFavIFJyCm2OS4KUmp2fz?si=_gqXw9oxSm2rj4ZAKLf4kQ)
-
-[Apple Music](https://music.apple.com/us/artist/zanny-xy/1661682511)
-
-[Youtube](https://www.youtube.com/@zannyxy)
-
-[Soundcloud](https://soundcloud.com/zannyxy)
+You can find my music on: [Spotify](https://open.spotify.com/artist/3tFavIFJyCm2OS4KUmp2fz?si=_gqXw9oxSm2rj4ZAKLf4kQ), [Apple Music](https://music.apple.com/us/artist/zanny-xy/1661682511), [Youtube](https://www.youtube.com/@zannyxy), [Soundcloud](https://soundcloud.com/zannyxy). 
