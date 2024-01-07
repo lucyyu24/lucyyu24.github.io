@@ -58,6 +58,12 @@
       a:visited {
         color: $text-color;
       }
+      a:link {
+        color: $text-color;
+      }
+      a:link, a:visited {
+        text-decoration: none;
+      }
     }
 
     button {
@@ -75,10 +81,6 @@
       &:hover {
           background-color: $brand-color;
           color: white;
-      }
-      &:visited {
-          color: $text-color;
-          background-color: white;
       }
 
       @include media-query($on-palm) {
