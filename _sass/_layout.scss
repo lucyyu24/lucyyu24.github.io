@@ -68,9 +68,17 @@
       margin: 0px 5px;
       border-color: transparent;
       border-radius: 5px;
+
+      color: $text-color;
+      background-color: white;
+
       &:hover {
           background-color: $brand-color;
           color: white;
+      }
+      &:visited {
+          color: $text-color;
+          background-color: white;
       }
 
       @include media-query($on-palm) {
