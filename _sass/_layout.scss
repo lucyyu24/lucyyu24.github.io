@@ -235,6 +235,10 @@
  */
 .site-footer {
     padding: $spacing-unit 0;
+
+    @include media-query($on-palm) {
+      padding: $spacing-unit/2 0;
+    }
 }
 
 .footer-heading {
