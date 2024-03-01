@@ -12,7 +12,7 @@ It took me a while to see that I come from a line of creative people who did not
 
 Now I’m on a journey of honoring my gifts and sharing them with you. I hope to inspire you to unfold yours
 
-and live out the brilliance within your destiny.
+and live out the brilliance that is your destiny.
 
 ⭐️
 
