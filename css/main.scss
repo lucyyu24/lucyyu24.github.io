@@ -4,9 +4,9 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Georgia, Palatino Linotype, Book Antiqua, Palatino, serif;
+$base-font-family: Georgia, Noto_Sans_SC, Palatino Linotype, Book Antiqua, Palatino, serif;
 $post-title-font-family: Avenir;
-$site-title-font-family: ocean-rush;
+$site-title-font-family: newake;
 $base-font-size:   17px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.75;
@@ -15,10 +15,10 @@ $spacing-unit:     48px;
 
 $text-color:       darken(#828282, 20%);
 $background-color: #ffffff;
-$brand-color:      #d0153e;
+$brand-color:      #c0de34; //#b6eb43;
 $brand-color-light: lighten($brand-color, 20%);
 $brand-color-dark: darken($brand-color, 20%);
-$accent-color: #113fee;
+$accent-color: #b38b6d;
 $accent-color-dark: darken($accent-color, 20%);
 
 $grey-color:       #828282;
@@ -66,6 +66,29 @@ $on-laptop:        640px;
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+  font-family: 'newake';
+    src: url('../font/indieground-newakefont-demo/Newake-Font-Demo.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+// chinese fonts
+@font-face {
+  font-family: 'Noto_Serif_SC';
+    src: url('../font/Noto_Serif_SC/NotoSerifSC-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto_Sans_SC';
+    src: url('../font/Noto_Sans_SC/NotoSansSC-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 // socicon
 @font-face {

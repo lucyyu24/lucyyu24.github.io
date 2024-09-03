@@ -3,10 +3,34 @@
   display: flex;
   justify-content: space-evenly;
 
-  background-color: #f9f9f9;
+  background-color: #ffffff;
   opacity: 1;
-  background-image: radial-gradient(circle at center center, #e1dddd, #f9f9f9), repeating-radial-gradient(circle at center center, #e1dddd, #e1dddd, 38px, transparent 76px, transparent 38px);
+  background-image: radial-gradient(circle at center center, #e4f1a9, #ffffff), repeating-radial-gradient(circle at center center, #e4f1a9, #e4f1a9, 40px, transparent 80px, transparent 40px);
   background-blend-mode: multiply;
+
+  // taupe
+  // background-color: #ffffff;
+  // opacity: 1;
+  // background-image: radial-gradient(circle at center center, #e3d4c9, #ffffff), repeating-radial-gradient(circle at center center, #e3d4c9, #e3d4c9, 40px, transparent 80px, transparent 40px);
+  // background-blend-mode: multiply;
+
+  // blue
+  // background-color: #ffffff;
+  // opacity: 1;
+  // background-image: radial-gradient(circle at center center, #dedcff, #ffffff), repeating-radial-gradient(circle at center center, #dedcff, #dedcff, 40px, transparent 80px, transparent 40px);
+  // background-blend-mode: multiply;
+
+  // background-color: #f9f9f9;
+  // opacity: 1;
+  // background-image: radial-gradient(circle at center center, #e1dddd, #f9f9f9), repeating-radial-gradient(circle at center center, #e1dddd, #e1dddd, 38px, transparent 76px, transparent 38px);
+  // background-blend-mode: multiply;
+
+  img {
+    max-width: 55%;
+    @include media-query($on-palm) {
+      max-width: 100%;
+    }
+  }
 
   .text-buttons-container {
     position: absolute;
@@ -116,10 +140,10 @@
 .site-title {
     font-family: $site-title-font-family;
     font-size: 45px;
-    letter-spacing: 2.5px;
-    font-style: italic;
+    letter-spacing: 4px;
     line-height: 56px;
     margin-bottom: 0;
+    padding-top: 4px;
     float: left;
 
     & {
@@ -156,6 +180,7 @@
     }
 
     .page-link {
+        font-size: 18px;
         color: #fff;
         line-height: $base-line-height;
 
