@@ -1,14 +1,11 @@
 # Site settings
 title: Jiaao
 description: > # this means to ignore newlines until "baseurl:"
-  Ouroboros.
+  Of earth and stars.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://zanny.net" # the base hostname & protocol for your site
-github_username:  lucyyu24
-linkedin_username:  zannyxy
-soundcloud_username: zannyxy
-twitter_username: zannyxy
-instagram_username: zanny.xy
+url: "https://jiaaomusic.com" # the base hostname & protocol for your site
+soundcloud_username: jiaaomusic
+instagram_username: jiaaomusic
 # social icons: https://www.iconfinder.com/iconsets/social-media-iconez
 
 # Build settings
