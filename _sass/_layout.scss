@@ -110,6 +110,7 @@
 }
 
 .site-title {
+    display: inline-flex;
     font-family: $site-title-font-family;
     font-size: 45px;
     letter-spacing: 4px;
