@@ -111,14 +111,16 @@
 
 .site-title {
     display: inline-flex;
+    float: left;
+    max-height: 80px;
+
+    // for text title
     font-family: $site-title-font-family;
     font-size: 45px;
     letter-spacing: 4px;
     line-height: 77px;
     margin-bottom: 0;
     padding-top: 4px;
-    float: left;
-    max-height: 80px;
 
     & {
       color: #fff;
@@ -133,6 +135,11 @@
     }
     @include media-query($on-small-phone) {
         font-size: 35px;
+    }
+
+    svg {
+      margin-top: -11px;
+      margin-left: -22px;
     }
 }
 
