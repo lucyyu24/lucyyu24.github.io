@@ -97,6 +97,7 @@
     margin-bottom: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
+
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -110,37 +111,33 @@
 }
 
 .site-title {
-    display: inline-flex;
+    display: relative;
     float: left;
     max-height: 80px;
+    margin-bottom: 0;
+    padding-top: 7px;
+    line-height: 77px;
 
     // for text title
-    font-family: $site-title-font-family;
-    font-size: 45px;
-    letter-spacing: 4px;
-    line-height: 77px;
-    margin-bottom: 0;
-    padding-top: 4px;
+    // font-family: $site-title-font-family;
+    // font-size: 45px;
+    // letter-spacing: 4px;
 
-    & {
-      color: #fff;
-    }
-
-    &:hover {
-        color: $brand-color-dark;
-    }
-
-    @include media-query($on-phone) {
-        font-size: 40px;
-    }
-    @include media-query($on-small-phone) {
-        font-size: 35px;
-    }
-
-    svg {
-      margin-top: -11px;
-      margin-left: -22px;
-    }
+    //
+    // & {
+    //   color: #fff;
+    // }
+    //
+    // &:hover {
+    //     color: $brand-color-dark;
+    // }
+    //
+    // @include media-query($on-phone) {
+    //     font-size: 40px;
+    // }
+    // @include media-query($on-small-phone) {
+    //     font-size: 35px;
+    // }
 }
 
 .block-hover {
