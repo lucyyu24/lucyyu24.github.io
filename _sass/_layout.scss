@@ -111,14 +111,14 @@
 
     svg {
       height: 88px;
-      margin-left: -30px;
+      margin-left: -20px;
       margin-top: -4px;
     }
 
     @include media-query($on-palm) {
       svg {
         height: 77px;
-        margin-left: -21px;
+        margin-left: -18px;
         margin-top: 2px;
       }
     }
