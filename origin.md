@@ -26,10 +26,10 @@ When I connect to my ancestry I connect to the roots of an infinite tree.
 
 When I connect to my name I connect to my place of origin and where I started on this tree.
 
-From today I’ll be releasing music under Jiaao
+From today I’ll be Jiaao again
 
 to honor my lineage, story, and the stories that came before me.
 
 🐉 🪷 🌔
 
-(09/09/2024)
+(11/11/2024)
