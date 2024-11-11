@@ -10,7 +10,7 @@ I was born Jiaao 佳傲
 
 My father named me after a class of poetry \
 with a subtle twist turning a boy’s name into a girl’s one \
-two characters carrying the blueprint of androgyny: \
+two characters carrying a blueprint of androgyny: \
 fine beauty, and pride.
 
 I spent 11 years answering to the sound of these syllables \
